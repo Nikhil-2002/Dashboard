@@ -1,0 +1,526 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aarav Patil",
+      "username": "aaravp",
+      "email": "aarav.patil@example.com",
+      "phone": "+91-9876543210",
+      "website": "https://aaravpatil.dev",
+      "isActive": false,
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js"
+      ],
+      "availableSlots": [
+        "2025-09-27T05:30:00.000Z",
+        "2025-09-29T11:30:00.000Z"
+      ],
+      "address": {
+        "street": "MG Road",
+        "city": "Pune",
+        "zipcode": "411001"
+      },
+      "company": {
+        "name": "Tech Mahindra"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "Riya Deshmukh",
+      "username": "riya.d",
+      "email": "riya.deshmukh@example.com",
+      "phone": "+91-9123456780",
+      "website": "https://riyadesign.in",
+      "isActive": true,
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "HTML",
+        "CSS"
+      ],
+      "availableSlots": [
+        "2025-09-28T10:00:00.000Z"
+      ],
+      "address": {
+        "street": "FC Road",
+        "city": "Pune",
+        "zipcode": "411004"
+      },
+      "company": {
+        "name": "Infosys"
+      },
+      "role": "Editor"
+    },
+    {
+      "id": "3",
+      "name": "Siddharth Kulkarni",
+      "username": "sidk",
+      "email": "sid.kulkarni@example.com",
+      "phone": "+91-9001234567",
+      "website": "https://sidkulkarni.dev",
+      "isActive": false,
+      "skills": [
+        "Python",
+        "Django",
+        "PostgreSQL"
+      ],
+      "availableSlots": [
+        "2025-09-30T08:30:00.000Z"
+      ],
+      "address": {
+        "street": "Karve Road",
+        "city": "Pune",
+        "zipcode": "411038"
+      },
+      "company": {
+        "name": "Persistent Systems"
+      },
+      "role": "Viewer"
+    },
+    {
+      "id": "4",
+      "name": "Ananya Joshi",
+      "username": "ananyaj",
+      "email": "ananya.joshi@example.com",
+      "phone": "+91-9012345678",
+      "website": "https://ananyajoshi.tech",
+      "isActive": false,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "MySQL"
+      ],
+      "availableSlots": [
+        "2025-10-01T09:00:00.000Z"
+      ],
+      "address": {
+        "street": "Sinhagad Road",
+        "city": "Pune",
+        "zipcode": "411030"
+      },
+      "company": {
+        "name": "TCS"
+      },
+      "role": "Editor"
+    },
+    {
+      "id": "5",
+      "name": "Karan Shinde",
+      "username": "karans",
+      "email": "karan.shinde@example.com",
+      "phone": "+91-8765432109",
+      "website": "https://karanshinde.me",
+      "isActive": true,
+      "skills": [
+        "Go",
+        "Docker",
+        "Kubernetes"
+      ],
+      "availableSlots": [
+        "2025-10-02T11:15:00.000Z"
+      ],
+      "address": {
+        "street": "Baner Road",
+        "city": "Pune",
+        "zipcode": "411045"
+      },
+      "company": {
+        "name": "Wipro"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "6",
+      "name": "Neha Jadhav",
+      "username": "nehaj",
+      "email": "neha.jadhav@example.com",
+      "phone": "+91-9823456789",
+      "website": "https://nehajadhav.design",
+      "isActive": true,
+      "skills": [
+        "Angular",
+        "TypeScript",
+        "RxJS"
+      ],
+      "availableSlots": [
+        "2025-10-03T10:00:00.000Z"
+      ],
+      "address": {
+        "street": "Dadar",
+        "city": "Mumbai",
+        "zipcode": "400014"
+      },
+      "company": {
+        "name": "Capgemini"
+      },
+      "role": "Editor"
+    },
+    {
+      "id": "7",
+      "name": "Rohit Pawar",
+      "username": "rohitp",
+      "email": "rohit.pawar@example.com",
+      "phone": "+91-9812345670",
+      "website": "https://rohitpawar.dev",
+      "isActive": true,
+      "skills": [
+        "C++",
+        "Embedded Systems",
+        "IoT"
+      ],
+      "availableSlots": [
+        "2025-10-04T09:30:00.000Z"
+      ],
+      "address": {
+        "street": "Andheri East",
+        "city": "Mumbai",
+        "zipcode": "400069"
+      },
+      "company": {
+        "name": "Reliance Jio"
+      },
+      "role": "Viewer"
+    },
+    {
+      "id": "8",
+      "name": "Priya More",
+      "username": "priyam",
+      "email": "priya.more@example.com",
+      "phone": "+91-9701234567",
+      "website": "https://priyamore.tech",
+      "isActive": true,
+      "skills": [
+        "AWS",
+        "DevOps",
+        "Terraform"
+      ],
+      "availableSlots": [
+        "2025-10-05T08:00:00.000Z"
+      ],
+      "address": {
+        "street": "Thane West",
+        "city": "Mumbai",
+        "zipcode": "400601"
+      },
+      "company": {
+        "name": "Accenture"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "9",
+      "name": "Aditya Chavan",
+      "username": "adich",
+      "email": "aditya.chavan@example.com",
+      "phone": "+91-9654321098",
+      "website": "https://adityachavan.dev",
+      "isActive": true,
+      "skills": [
+        "React",
+        "Redux",
+        "Next.js"
+      ],
+      "availableSlots": [
+        "2025-10-06T10:30:00.000Z"
+      ],
+      "address": {
+        "street": "Shivaji Nagar",
+        "city": "Nagpur",
+        "zipcode": "440001"
+      },
+      "company": {
+        "name": "Cognizant"
+      },
+      "role": "Editor"
+    },
+    {
+      "id": "10",
+      "name": "Sneha Gokhale",
+      "username": "snehag",
+      "email": "sneha.gokhale@example.com",
+      "phone": "+91-9543210987",
+      "website": "https://snehagokhale.in",
+      "isActive": true,
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "availableSlots": [
+        "2025-10-07T14:00:00.000Z"
+      ],
+      "address": {
+        "street": "Civil Lines",
+        "city": "Nagpur",
+        "zipcode": "440002"
+      },
+      "company": {
+        "name": "TechnoCraft"
+      },
+      "role": "Viewer"
+    },
+    {
+      "id": "11",
+      "name": "Akash Rane",
+      "username": "akashr",
+      "email": "akash.rane@example.com",
+      "phone": "+91-9432109876",
+      "website": "https://akashrane.dev",
+      "isActive": true,
+      "skills": [
+        "PHP",
+        "Laravel",
+        "MySQL"
+      ],
+      "availableSlots": [
+        "2025-10-08T09:15:00.000Z"
+      ],
+      "address": {
+        "street": "Laxmi Road",
+        "city": "Kolhapur",
+        "zipcode": "416002"
+      },
+      "company": {
+        "name": "Mindtree"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "12",
+      "name": "Meera Naik",
+      "username": "meeran",
+      "email": "meera.naik@example.com",
+      "phone": "+91-9321098765",
+      "website": "https://meeranaik.design",
+      "isActive": true,
+      "skills": [
+        "UI/UX",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "availableSlots": [
+        "2025-10-09T13:00:00.000Z"
+      ],
+      "address": {
+        "street": "Shahu Market",
+        "city": "Kolhapur",
+        "zipcode": "416003"
+      },
+      "company": {
+        "name": "DesignHub"
+      },
+      "role": "Editor"
+    },
+    {
+      "id": "13",
+      "name": "Omkar Bhosale",
+      "username": "omkarb",
+      "email": "omkar.bhosale@example.com",
+      "phone": "+91-9210987654",
+      "website": "https://omkarbhosale.tech",
+      "isActive": true,
+      "skills": [
+        "Python",
+        "AI/ML",
+        "TensorFlow"
+      ],
+      "availableSlots": [
+        "2025-10-10T15:30:00.000Z"
+      ],
+      "address": {
+        "street": "Central Bazaar",
+        "city": "Nagpur",
+        "zipcode": "440010"
+      },
+      "company": {
+        "name": "AI Labs"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "14",
+      "name": "Pooja Khedkar",
+      "username": "poojak",
+      "email": "pooja.khedkar@example.com",
+      "phone": "+91-9109876543",
+      "website": "https://poojakhedkar.dev",
+      "isActive": true,
+      "skills": [
+        "Java",
+        "Microservices",
+        "Kafka"
+      ],
+      "availableSlots": [
+        "2025-10-11T11:45:00.000Z"
+      ],
+      "address": {
+        "street": "MG Road",
+        "city": "Aurangabad",
+        "zipcode": "431001"
+      },
+      "company": {
+        "name": "Mahindra Tech"
+      },
+      "role": "Editor"
+    },
+    {
+      "id": "15",
+      "name": "Nilesh Gaikwad",
+      "username": "nileshg",
+      "email": "nilesh.gaikwad@example.com",
+      "phone": "+91-9876012345",
+      "website": "https://nileshgaikwad.me",
+      "isActive": false,
+      "skills": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "availableSlots": [
+        "2025-10-12T12:30:00.000Z"
+      ],
+      "address": {
+        "street": "Station Road",
+        "city": "Aurangabad",
+        "zipcode": "431002"
+      },
+      "company": {
+        "name": "Microsoft India"
+      },
+      "role": "Viewer"
+    },
+    {
+      "id": "16",
+      "name": "Isha Pawar",
+      "username": "ishap",
+      "email": "isha.pawar@example.com",
+      "phone": "+91-9760123456",
+      "website": "https://ishapawar.design",
+      "isActive": true,
+      "skills": [
+        "Graphic Design",
+        "Figma",
+        "Canva"
+      ],
+      "availableSlots": [
+        "2025-10-13T14:00:00.000Z"
+      ],
+      "address": {
+        "street": "College Road",
+        "city": "Nashik",
+        "zipcode": "422005"
+      },
+      "company": {
+        "name": "CreativeWorks"
+      },
+      "role": "Editor"
+    },
+    {
+      "id": "17",
+      "name": "Yash Patwardhan",
+      "username": "yashp",
+      "email": "yash.patwardhan@example.com",
+      "phone": "+91-9756012345",
+      "website": "https://yashpatwardhan.dev",
+      "isActive": true,
+      "skills": [
+        "Fullstack",
+        "MERN",
+        "Cloud"
+      ],
+      "availableSlots": [
+        "2025-10-14T09:00:00.000Z"
+      ],
+      "address": {
+        "street": "Gangapur Road",
+        "city": "Nashik",
+        "zipcode": "422006"
+      },
+      "company": {
+        "name": "CloudLabs"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "18",
+      "name": "Tanvi Inamdar",
+      "username": "tanvii",
+      "email": "tanvi.inamdar@example.com",
+      "phone": "+91-9745012345",
+      "website": "https://tanviinamdar.in",
+      "isActive": true,
+      "skills": [
+        "Testing",
+        "Selenium",
+        "Cypress"
+      ],
+      "availableSlots": [
+        "2025-10-15T10:15:00.000Z"
+      ],
+      "address": {
+        "street": "Main Road",
+        "city": "Solapur",
+        "zipcode": "413001"
+      },
+      "company": {
+        "name": "QA Solutions"
+      },
+      "role": "Viewer"
+    },
+    {
+      "id": "19",
+      "name": "Rajesh Mane",
+      "username": "rajeshm",
+      "email": "rajesh.mane@example.com",
+      "phone": "+91-9734012345",
+      "website": "https://rajeshmane.tech",
+      "isActive": true,
+      "skills": [
+        "Blockchain",
+        "Solidity",
+        "Web3"
+      ],
+      "availableSlots": [
+        "2025-10-16T16:00:00.000Z"
+      ],
+      "address": {
+        "street": "Market Yard",
+        "city": "Satara",
+        "zipcode": "415001"
+      },
+      "company": {
+        "name": "CryptoLabs"
+      },
+      "role": "Admin"
+    },
+    {
+      "id": "20",
+      "name": "Shreya Apte",
+      "username": "shreyaa",
+      "email": "shreya.apte@example.com",
+      "phone": "+91-9723012345",
+      "website": "https://shreyaapte.dev",
+      "isActive": true,
+      "skills": [
+        "Data Science",
+        "R",
+        "Machine Learning"
+      ],
+      "availableSlots": [
+        "2025-10-17T11:30:00.000Z"
+      ],
+      "address": {
+        "street": "Raviwar Peth",
+        "city": "Pune",
+        "zipcode": "411002"
+      },
+      "company": {
+        "name": "Data Insights Pvt Ltd"
+      },
+      "role": "Editor"
+    }
+  ]
+}
