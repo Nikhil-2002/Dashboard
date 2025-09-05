@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed on your system:
 
 ```bash
 # If using Git
-git clone <repository-url>
+git clone https://github.com/Nikhil-2002/Dashboard.git
 cd user-management-dashboard
 
 # Or download and extract the ZIP file
@@ -56,6 +56,8 @@ npm install
 Open a new terminal window and run:
 
 ```bash
+npm run server
+or
 # Start json-server on port 4000
 npx json-server --watch db.json --port 4000
 ```
